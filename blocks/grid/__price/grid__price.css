@@ -1,0 +1,14 @@
+.grid__price{
+        display: flex;
+        margin-block-start: 0;
+        margin-block-end: 0;
+        margin-left: 5px;
+}
+
+@media screen and (max-width: 670px){
+    .grid__price{
+        justify-content: center;
+        align-content: center;
+        margin-left: 3px;
+    }      
+}

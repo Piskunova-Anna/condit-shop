@@ -1,0 +1,9 @@
+.body {
+    display: flex;
+    margin: 0 auto;
+    font-family: NotoSans, Arial, sans-serif;
+    flex-direction: column;
+    background-color: #ffc;
+    max-width: 1280px;
+    min-width: 320px;
+}

@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    background: linear-gradient(#ffc, #800517, #ffc);
+}
+
+@media screen and (max-width: 650px){
+    .header{
+        flex-direction: column;
+        justify-content: center;
+    }
+}

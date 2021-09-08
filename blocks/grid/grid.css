@@ -1,0 +1,6 @@
+.grid{
+    display: grid;
+    grid-template-rows: max-content;
+    margin: 0 auto 50px;
+    row-gap: 30px;
+}

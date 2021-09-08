@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("NotoSans-Regular.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("NotoSans-Italic.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: bold;
+    font-weight: 900;
+    font-display: swap;
+    src: url("NotoSans-BoldItalic.ttf") format("ttf");
+}

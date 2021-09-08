@@ -1,0 +1,24 @@
+.grid__image{
+    grid-area: 2 / 1 / 9 / 2;
+    margin: 0 auto;
+    max-height: 300px;
+    max-width: 200px;
+    object-fit: cover;
+    display: flex;
+    align-self: center;
+}
+
+@media screen and (max-width: 900px){
+    .grid__image{
+        grid-area: 2 / 1 / 8 / 2;
+        max-height: 200px;
+        max-width: 150px;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .grid__image{
+        max-height: 350px;
+        max-width: 250px;
+    }
+}

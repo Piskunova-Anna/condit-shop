@@ -1,0 +1,9 @@
+.contacts__heading{
+    display: flex;
+    margin: 40px;
+    font-size: 40px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-style: italic;
+    color: #800517;
+}

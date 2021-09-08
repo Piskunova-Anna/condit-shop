@@ -1,0 +1,19 @@
+.grid__card {
+    display: grid;
+    width: 75vw;
+    gap: 20px;
+    background-color: #FDEEF4;
+    box-shadow: 5px 5px 15px rgba(233, 207, 236, .5);
+    align-items: center;
+    border-radius: 10px;
+    margin: auto;
+}
+
+@media screen and (max-width: 670px){
+    .grid__card{
+        max-width: 300px;
+        display: flex;
+        flex-direction: column;
+        max-height: fit-content;
+    }
+}

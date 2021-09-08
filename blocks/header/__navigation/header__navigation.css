@@ -1,0 +1,15 @@
+.header__navigation{
+    display: flex;
+    width: fit-content;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 10px 15px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 650px){
+    .header__navigation{
+        margin: auto;
+    }
+}

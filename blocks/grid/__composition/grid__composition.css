@@ -1,0 +1,34 @@
+.grid__composition{
+    display: flex;
+    grid-area: 9 / 1 / 10 / 2;
+    cursor: pointer;
+    background-color: #800517;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10px auto;
+    padding: 0;
+    height: 40px;
+    width: 200px;
+    align-items: center;
+    border-style: none;
+    border: 1px solid black;
+    border-radius: 2px;
+    border-width: 0;
+    justify-content: center;
+}
+
+@media screen and (max-width: 900px){
+    .grid__composition{
+        grid-area: 8 / 1 / 10 / 2;
+        width: 150px;
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 670px){
+    .grid__composition{
+        width: 250px;
+        margin-top: 0;
+    }
+}

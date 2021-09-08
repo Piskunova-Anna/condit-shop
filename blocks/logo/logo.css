@@ -1,0 +1,22 @@
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 50px auto;
+    width: 100%;
+}
+
+@media screen and (max-width: 950px){
+    .logo{
+        max-width: 600px;
+    }
+}
+
+@media screen and (max-width: 650px){
+    .logo{
+        flex-direction: column;
+        max-width: 280px;
+        align-items: center;
+    }
+}
