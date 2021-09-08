@@ -1,6 +1,6 @@
 export const cards = [
     {
-        image: '../images/image1.jpg',
+        image: 'images/image1.jpg',
         name: 'Новогодний набор Домик "Уютная компания"',
         pack: 'хэк',
         weight: '400',
@@ -11,7 +11,7 @@ export const cards = [
         price_xl: '274,5',
     },
     {
-        image: '../images/image2.png',
+        image: 'images/image2.png',
         name: 'Новогодний набор "Портфель"',
         pack: 'хэк',
         weight: '400',
@@ -22,7 +22,7 @@ export const cards = [
         price_xl: '274,5',
     },
     {
-        image: '../images/image3.png',
+        image: 'images/image3.png',
         name: 'Новогодний набор "Сказки Деда Мороза"',
         pack: 'хэк',
         weight: '400',
@@ -33,7 +33,7 @@ export const cards = [
         price_xl: '266,5',
     },
     {
-        image: '../images/image4.png',
+        image: 'images/image4.png',
         name: 'Новогодний набор "Фонарик резной"',
         pack: 'хэк',
         weight: '400',
@@ -44,7 +44,7 @@ export const cards = [
         price_xl: '264,5',
     },
     {
-        image: '../images/image5.png',
+        image: 'images/image5.png',
         name: 'Новогодний набор "Кристалл Искорка"',
         pack: 'хэк',
         weight: '400',
@@ -55,7 +55,7 @@ export const cards = [
         price_xl: '264,5',
     },
     {
-        image: '../images/image6.png',
+        image: 'images/image6.png',
         name: 'Новогодний набор "Загадки от деда Мороза"',
         pack: 'хэк',
         weight: '400',
@@ -66,7 +66,7 @@ export const cards = [
         price_xl: '264,5',
     },
     {
-        image: '../images/image7.png',
+        image: 'images/image7.png',
         name: 'Новогодний набор "Дед Мороз и снегурочка с кормушкой"',
         pack: 'хэк',
         weight: '500',
@@ -77,7 +77,7 @@ export const cards = [
         price_xl: '312,3',
     },
     {
-        image: '../images/image8.png',
+        image: 'images/image8.png',
         name: 'Новогодний набор "Снежинка малая"',
         pack: 'хэк',
         weight: '500',
@@ -88,7 +88,7 @@ export const cards = [
         price_xl: '317,3',
     },
     {
-        image: '../images/image10.png',
+        image: 'images/image10.png',
         name: 'Новогодний набор "Снежинка-ежинка малая"',
         pack: 'хэк',
         weight: '500',
@@ -99,7 +99,7 @@ export const cards = [
         price_xl: '317,3',
     },
     {
-        image: '../images/image11.png',
+        image: 'images/image11.png',
         name: 'Новогодний набор "Елочка малая"',
         pack: 'хэк',
         weight: '500',
@@ -110,7 +110,7 @@ export const cards = [
         price_xl: '312,3',
     },
     {
-        image: '../images/image12.png',
+        image: 'images/image12.png',
         name: 'Новогодний набор "Подарок "Тигриная история"',
         pack: 'микрогофрокартон',
         weight: '600',
@@ -121,7 +121,7 @@ export const cards = [
         price_xl: '412,0',
     },
     {
-        image: '../images/image13.png',
+        image: 'images/image13.png',
         name: 'Новогодний набор "Подарок "Рыжие обнимашки"',
         pack: 'микрогофрокартон',
         weight: '600',
@@ -132,7 +132,7 @@ export const cards = [
         price_xl: '412,0',
     },
     {
-        image: '../images/image15.png',
+        image: 'images/image15.png',
         name: 'Новогодний набор "Милашки"',
         pack: 'микрогофрокартон',
         weight: '600',
@@ -143,7 +143,7 @@ export const cards = [
         price_xl: '412,0',
     },
     {
-        image: '../images/image16.png',
+        image: 'images/image16.png',
         name: 'Новогодний набор "Лабиринт"',
         pack: 'микрогофрокартон',
         weight: '600',
@@ -154,7 +154,7 @@ export const cards = [
         price_xl: '412,0',
     },
     {
-        image: '../images/image17.png',
+        image: 'images/image17.png',
         name: 'Новогодний набор "Часы каминные"',
         pack: 'микрогофрокартон',
         weight: '600',
@@ -165,7 +165,7 @@ export const cards = [
         price_xl: '432,0',
     },
     {
-        image: '../images/image18.png',
+        image: 'images/image18.png',
         name: 'Новогодний подарок "Ларец "Под елкой"',
         pack: 'микрогофрокартон',
         weight: '700',
@@ -176,7 +176,7 @@ export const cards = [
         price_xl: '541,5',
     },
     {
-        image: '../images/image19.png',
+        image: 'images/image19.png',
         name: 'Новогодний подарок "Ларец "Скорость"',
         pack: 'микрогофрокартон',
         weight: '700',
@@ -187,7 +187,7 @@ export const cards = [
         price_xl: '541,5',
     },
     {
-        image: '../images/image20.png',
+        image: 'images/image20.png',
         name: 'Новогодний подарок "Снежные кружева"',
         pack: 'микрогофрокартон',
         weight: '700',
@@ -198,7 +198,7 @@ export const cards = [
         price_xl: '541,5',
     },
     {
-        image: '../images/image21.png',
+        image: 'images/image21.png',
         name: 'Новогодний подарок "Сундук сказочный"',
         pack: 'микрогофрокартон',
         weight: '800',
@@ -209,7 +209,7 @@ export const cards = [
         price_xl: '608,8',
     },
     {
-        image: '../images/image22.png',
+        image: 'images/image22.png',
         name: 'Новогодний подарок "Ларец "Под елкой"',
         pack: 'микрогофрокартон',
         weight: '800',
@@ -220,7 +220,7 @@ export const cards = [
         price_xl: '611,8',
     },
     {
-        image: '../images/image23.png',
+        image: 'images/image23.png',
         name: 'Новогодний подарок "Ларец "Скорость"',
         pack: 'микрогофрокартон',
         weight: '800',
@@ -231,7 +231,7 @@ export const cards = [
         price_xl: '611,8',
     },
     {
-        image: '../images/image24.png',
+        image: 'images/image24.png',
         name: 'Новогодний подарок "Снежные кружева"',
         pack: 'микрогофрокартон',
         weight: '800',
@@ -242,7 +242,7 @@ export const cards = [
         price_xl: '611,8',
     },
     {
-        image: '../images/image25.png',
+        image: 'images/image25.png',
         name: 'Новогодний подарок "Каравелла"',
         pack: 'микрогофрокартон',
         weight: '900',
@@ -253,7 +253,7 @@ export const cards = [
         price_xl: '722,5',
     },
     {
-        image: '../images/image26.png',
+        image: 'images/image26.png',
         name: 'Новогодний подарок "Рюкзак Енотик"',
         pack: 'микрогофрокартон',
         weight: '900',
@@ -264,7 +264,7 @@ export const cards = [
         price_xl: '714,5',
     },
     {
-        image: '../images/image27.png',
+        image: 'images/image27.png',
         name: 'Новогодний подарок "Рюкзак джинсовый"',
         pack: 'микрогофрокартон',
         weight: '900',
@@ -275,7 +275,7 @@ export const cards = [
         price_xl: '714,5',
     },
     {
-        image: '../images/image28.png',
+        image: 'images/image28.png',
         name: 'Новогодний подарок "Новогодний вокзал"',
         pack: 'микрогофрокартон',
         weight: '900',
@@ -286,7 +286,7 @@ export const cards = [
         price_xl: '723,5',
     },
     {
-        image: '../images/image29.png',
+        image: 'images/image29.png',
         name: 'Новогодний подарок "Чемоданчик Дед Мороз и Снегурочка"',
         pack: 'микрогофрокартон, пластиковая ручка',
         weight: '1000',
@@ -297,7 +297,7 @@ export const cards = [
         price_xl: '752,0',
     },
     {
-        image: '../images/image30.png',
+        image: 'images/image30.png',
         name: 'Новогодний подарок Сумочка "Дед Мороз и дети"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -308,7 +308,7 @@ export const cards = [
         price_xl: '762,0',
     },
     {
-        image: '../images/image31.png',
+        image: 'images/image31.png',
         name: 'Новогодний подарок Сумочка "Тройка лошадей"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -319,7 +319,7 @@ export const cards = [
         price_xl: '762,0',
     },
     {
-        image: '../images/image32.png',
+        image: 'images/image32.png',
         name: 'Новогодний подарок Сундук "Кораблик"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -330,7 +330,7 @@ export const cards = [
         price_xl: '761,0',
     },
     {
-        image: '../images/image33.png',
+        image: 'images/image33.png',
         name: 'Новогодний подарок "Портфель Ночь"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -341,7 +341,7 @@ export const cards = [
         price_xl: '765,0',
     },
     {
-        image: '../images/image34.png',
+        image: 'images/image34.png',
         name: 'Новогодний подарок "Портфель Зодиак"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -352,7 +352,7 @@ export const cards = [
         price_xl: '765,0',
     },
     {
-        image: '../images/image35.png',
+        image: 'images/image35.png',
         name: 'Новогодний подарок "Палех"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -363,7 +363,7 @@ export const cards = [
         price_xl: '756,0',
     },
     {
-        image: '../images/image36.png',
+        image: 'images/image36.png',
         name: 'Новогодний подарок Фургончик "Карамель"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -374,7 +374,7 @@ export const cards = [
         price_xl: '766,0',
     },
     {
-        image: '../images/image37.png',
+        image: 'images/image37.png',
         name: 'Новогодний подарок Фургончик "Мороженое"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -385,7 +385,7 @@ export const cards = [
         price_xl: '766,0',
     },
     {
-        image: '../images/image38.png',
+        image: 'images/image38.png',
         name: 'Новогодний подарок "Машина Фура красная"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -396,7 +396,7 @@ export const cards = [
         price_xl: '768,0',
     },
     {
-        image: '../images/image39.png',
+        image: 'images/image39.png',
         name: 'Новогодний подарок "Фура Фанфары"',
         pack: 'микрогофрокартон',
         weight: '1000',
@@ -407,7 +407,7 @@ export const cards = [
         price_xl: '768,0',
     },
     {
-        image: '../images/image36.png',
+        image: 'images/image36.png',
         name: 'Новогодний подарок Фургончик "Карамель"',
         pack: 'микрогофрокартон',
         weight: '1200',
@@ -418,7 +418,7 @@ export const cards = [
         price_xl: '891,7',
     },
     {
-        image: '../images/image37.png',
+        image: 'images/image37.png',
         name: 'Новогодний подарок Фургончик "Мороженое"',
         pack: 'микрогофрокартон',
         weight: '1200',
@@ -429,7 +429,7 @@ export const cards = [
         price_xl: '891,7',
     },
     {
-        image: '../images/image41.png',
+        image: 'images/image41.png',
         name: 'Новогодний подарок "Машина Фура красная"',
         pack: 'микрогофрокартон',
         weight: '1200',
@@ -440,7 +440,7 @@ export const cards = [
         price_xl: '893,7',
     },
     {
-        image: '../images/image42.png',
+        image: 'images/image42.png',
         name: 'Новогодний подарок "Фура Фанфары"',
         pack: 'микрогофрокартон',
         weight: '1200',
@@ -451,7 +451,7 @@ export const cards = [
         price_xl: '893,7',
     },
     {
-        image: '../images/image45.png',
+        image: 'images/image45.png',
         name: 'Новогодний подарок Замок "Снежная королева"',
         pack: 'микрогофрокартон',
         weight: '1200',
@@ -462,7 +462,7 @@ export const cards = [
         price_xl: '910,7',
     },
     {
-        image: '../images/image44.png',
+        image: 'images/image44.png',
         name: 'Новогодний подарок Замок "Вафелька"',
         pack: 'микрогофрокартон',
         weight: '1200',
@@ -473,7 +473,7 @@ export const cards = [
         price_xl: '910,7',
     },
     {
-        image: '../images/image45.png',
+        image: 'images/image45.png',
         name: 'Новогодний подарок Замок "Снежная королева"',
         pack: 'микрогофрокартон',
         weight: '1500',
@@ -484,7 +484,7 @@ export const cards = [
         price_xl: '1094,2',
     },
     {
-        image: '../images/image44.png',
+        image: 'images/image44.png',
         name: 'Новогодний подарок Замок "Вафелька"',
         pack: 'микрогофрокартон',
         weight: '1500',
@@ -495,7 +495,7 @@ export const cards = [
         price_xl: '1094,2',
     },
     {
-        image: '../images/image47.png',
+        image: 'images/image47.png',
         name: 'Новогодний подарок "Открытка"',
         pack: 'жесть',
         weight: '400',
@@ -506,7 +506,7 @@ export const cards = [
         price_xl: '523,5',
     },
     {
-        image: '../images/image48.png',
+        image: 'images/image48.png',
         name: 'Новогодний подарок "Золотой Петушок"',
         pack: 'жесть',
         weight: '400',
@@ -517,7 +517,7 @@ export const cards = [
         price_xl: '445,5',
     },
     {
-        image: '../images/image49.png',
+        image: 'images/image49.png',
         name: 'Новогодний подарок "Снеговик"',
         pack: 'жесть',
         weight: '400',
@@ -528,7 +528,7 @@ export const cards = [
         price_xl: '528,5',
     },
     {
-        image: '../images/image50.png',
+        image: 'images/image50.png',
         name: 'Новогодний подарок. НОВИНКА!! "Лото" внутри игра "ЛОТО"',
         pack: 'жесть',
         weight: '500',
@@ -539,7 +539,7 @@ export const cards = [
         price_xl: '1333,3',
     },
     {
-        image: '../images/image52.png',
+        image: 'images/image52.png',
         name: 'Новогодний подарок "Почтальон"',
         pack: 'жесть',
         weight: '600',
@@ -550,7 +550,7 @@ export const cards = [
         price_xl: '517,0',
     },
     {
-        image: '../images/image53.png',
+        image: 'images/image53.png',
         name: 'Новогодний подарок "Шкатулка"',
         pack: 'жесть',
         weight: '600',
@@ -561,7 +561,7 @@ export const cards = [
         price_xl: '676,0',
     },
     {
-        image: '../images/image54.png',
+        image: 'images/image54.png',
         name: 'Новогодний подарок "Книга "Снежная королева"',
         pack: 'жесть',
         weight: '600',
@@ -572,7 +572,7 @@ export const cards = [
         price_xl: '705,0',
     },
     {
-        image: '../images/image55.png',
+        image: 'images/image55.png',
         name: 'Новогодний подарок Саквояж"Прогулка"',
         pack: 'жесть с конгревом',
         weight: '600',
@@ -583,7 +583,7 @@ export const cards = [
         price_xl: '714,0',
     },
     {
-        image: '../images/image56.png',
+        image: 'images/image56.png',
         name: 'Новогодний подарок "Зимний фонарик"',
         pack: 'жесть',
         weight: '700',
@@ -594,7 +594,7 @@ export const cards = [
         price_xl: '688,5',
     },
     {
-        image: '../images/image57.png',
+        image: 'images/image57.png',
         name: 'Новогодний подарок "Портфель "Рождество"',
         pack: 'жесть',
         weight: '700',
@@ -605,7 +605,7 @@ export const cards = [
         price_xl: '740,5',
     },
     {
-        image: '../images/image58.png',
+        image: 'images/image58.png',
         name: 'Новогодний подарок "Портфель "Мешок подарков"',
         pack: 'жесть',
         weight: '700',
@@ -616,7 +616,7 @@ export const cards = [
         price_xl: '740,5',
     },
     {
-        image: '../images/image59.png',
+        image: 'images/image59.png',
         name: 'Новогодний подарок "Детишки"',
         pack: 'жесть',
         weight: '700',
@@ -627,7 +627,7 @@ export const cards = [
         price_xl: '740,5',
     },
     {
-        image: '../images/image60.png',
+        image: 'images/image60.png',
         name: 'Новогодний подарок "Палех дед мороз"',
         pack: 'жесть с конгревом',
         weight: '700',
@@ -638,7 +638,7 @@ export const cards = [
         price_xl: '746,5',
     },
     {
-        image: '../images/image61.png',
+        image: 'images/image61.png',
         name: 'Новогодний подарок "Созвездие тигра"',
         pack: 'жесть',
         weight: '700',
@@ -649,7 +649,7 @@ export const cards = [
         price_xl: '753,5',
     },
     {
-        image: '../images/image62.png',
+        image: 'images/image62.png',
         name: 'Новогодний подарок "Овал Сказка"',
         pack: 'жесть',
         weight: '700',
@@ -660,7 +660,7 @@ export const cards = [
         price_xl: '791,8',
     },
     {
-        image: '../images/image63.png',
+        image: 'images/image63.png',
         name: 'Новогодний подарок "Винтаж"',
         pack: 'жесть',
         weight: '800',
@@ -671,7 +671,7 @@ export const cards = [
         price_xl: '873,8',
     },
     {
-        image: '../images/image64.png',
+        image: 'images/image64.png',
         name: 'Новогодний подарок "Бенгалия"',
         pack: 'жесть',
         weight: '900',
@@ -682,7 +682,7 @@ export const cards = [
         price_xl: '1104,5',
     },
     {
-        image: '../images/image65.png',
+        image: 'images/image65.png',
         name: 'Новогодний подарок "Карапузы"',
         pack: 'жесть',
         weight: '900',
@@ -693,7 +693,7 @@ export const cards = [
         price_xl: '890,5',
     },
     {
-        image: '../images/image66.png',
+        image: 'images/image66.png',
         name: 'Новогодний подарок "Снежная королева"',
         pack: 'жесть',
         weight: '900',
@@ -704,7 +704,7 @@ export const cards = [
         price_xl: '925,5',
     },
     {
-        image: '../images/image67.png',
+        image: 'images/image67.png',
         name: 'Новогодний подарок "Сказки Деда Мороза"',
         pack: 'жесть',
         weight: '1000',
@@ -715,7 +715,7 @@ export const cards = [
         price_xl: '945,0',
     },
     {
-        image: '../images/image68.png',
+        image: 'images/image68.png',
         name: 'Новогодний подарок Кейс "Палех Тройка"',
         pack: 'жесть',
         weight: '1000',
@@ -726,7 +726,7 @@ export const cards = [
         price_xl: '1278,0',
     },
     {
-        image: '../images/image69.png',
+        image: 'images/image69.png',
         name: 'Новогодний подарок "Бенгалия"',
         pack: 'жесть',
         weight: '1000',
@@ -737,7 +737,7 @@ export const cards = [
         price_xl: '1159,0',
     },
     {
-        image: '../images/image70.png',
+        image: 'images/image70.png',
         name: 'Новогодний подарок "Кейс Винтаж"',
         pack: 'жесть',
         weight: '1000',
@@ -748,7 +748,7 @@ export const cards = [
         price_xl: '1159,0',
     },
     {
-        image: '../images/image71.png',
+        image: 'images/image71.png',
         name: 'Новогодний подарок Кейс "Палех Тройка"',
         pack: 'жесть',
         weight: '1200',
@@ -759,7 +759,7 @@ export const cards = [
         price_xl: '1403,7',
     },
     {
-        image: '../images/image72.png',
+        image: 'images/image72.png',
         name: 'Новогодний подарок "Кейс Винтаж"',
         pack: 'жесть',
         weight: '1200',
@@ -770,7 +770,7 @@ export const cards = [
         price_xl: '1284,7',
     },
     {
-        image: '../images/image73.png',
+        image: 'images/image73.png',
         name: 'Новогодний подарок "Кейс "Зимний город" с игрой',
         pack: 'жесть',
         weight: '1200',
@@ -781,7 +781,7 @@ export const cards = [
         price_xl: '1337,7',
     },
     {
-        image: '../images/image74.png',
+        image: 'images/image74.png',
         name: 'Новогодний подарок "Кейс "Зимний город" с игрой',
         pack: 'жесть',
         weight: '1500',
@@ -792,7 +792,7 @@ export const cards = [
         price_xl: '1521,2',
     },
     {
-        image: '../images/image75.png',
+        image: 'images/image75.png',
         name: 'Новогодний подарок "Башмачок"',
         pack: 'мягкая игрушка',
         weight: '300',
@@ -803,7 +803,7 @@ export const cards = [
         price_xl: '614,3',
     },
     {
-        image: '../images/image76.png',
+        image: 'images/image76.png',
         name: 'Новогодний подарок "Сании"',
         pack: 'мягкая игрушка',
         weight: '500',
@@ -814,7 +814,7 @@ export const cards = [
         price_xl: '837,3',
     },
     {
-        image: '../images/image77.png',
+        image: 'images/image77.png',
         name: 'Новогодний подарок "Фани"',
         pack: 'мягкая игрушка',
         weight: '500',
@@ -825,7 +825,7 @@ export const cards = [
         price_xl: '868,3',
     },
     {
-        image: '../images/image78.png',
+        image: 'images/image78.png',
         name: 'Новогодний подарок "Звездун"',
         pack: 'мягкая игрушка',
         weight: '500',
@@ -836,7 +836,7 @@ export const cards = [
         price_xl: '918,3',
     },
     {
-        image: '../images/image79.png',
+        image: 'images/image79.png',
         name: 'Новогодний подарок "Джуно"',
         pack: 'мягкая игрушка',
         weight: '500',
@@ -847,7 +847,7 @@ export const cards = [
         price_xl: '973,3',
     },
     {
-        image: '../images/image80.png',
+        image: 'images/image80.png',
         name: 'Новогодний подарок "Брюс"',
         pack: 'мягкая игрушка',
         weight: '500',
@@ -858,7 +858,7 @@ export const cards = [
         price_xl: '1 003,3',
     },
     {
-        image: '../images/image81.png',
+        image: 'images/image81.png',
         name: 'Новогодний подарок "Звездун"',
         pack: 'мягкая игрушка',
         weight: '600',
@@ -869,7 +869,7 @@ export const cards = [
         price_xl: '992,0',
     },
     {
-        image: '../images/image82.png',
+        image: 'images/image82.png',
         name: 'Новогодний подарок "Шерхан"',
         pack: 'мягкая игрушка',
         weight: '600',
@@ -880,7 +880,7 @@ export const cards = [
         price_xl: '1 197,0',
     },
     {
-        image: '../images/image83.png',
+        image: 'images/image83.png',
         name: 'Новогодний подарок "Джуно"',
         pack: 'мягкая игрушка',
         weight: '600',
@@ -891,7 +891,7 @@ export const cards = [
         price_xl: '1 047,0',
     },
     {
-        image: '../images/image84.png',
+        image: 'images/image84.png',
         name: 'Новогодний подарок "Фани"',
         pack: 'мягкая игрушка',
         weight: '600',
@@ -902,7 +902,7 @@ export const cards = [
         price_xl: '942,0',
     },
     {
-        image: '../images/image85.png',
+        image: 'images/image85.png',
         name: 'Новогодний подарок "Брюс"',
         pack: 'мягкая игрушка',
         weight: '600',
@@ -913,7 +913,7 @@ export const cards = [
         price_xl: '1 077,0',
     },
     {
-        image: '../images/image86.png',
+        image: 'images/image86.png',
         name: 'Новогодний подарок "Флин"',
         pack: 'мягкая игрушка',
         weight: '600',
@@ -924,7 +924,7 @@ export const cards = [
         price_xl: '1 047,0',
     },
     {
-        image: '../images/image87.png',
+        image: 'images/image87.png',
         name: 'Новогодний подарок "Сэм"',
         pack: 'мягкая игрушка',
         weight: '700',
@@ -935,7 +935,7 @@ export const cards = [
         price_xl: '1 071,5',
     },
     {
-        image: '../images/image88.png',
+        image: 'images/image88.png',
         name: 'Новогодний подарок "Стинг"',
         pack: 'мягкая игрушка',
         weight: '700',
@@ -946,7 +946,7 @@ export const cards = [
         price_xl: '1 087,5',
     },
     {
-        image: '../images/image89.png',
+        image: 'images/image89.png',
         name: 'Новогодний подарок "Тигра',
         pack: 'мягкая игрушка',
         weight: '700',
@@ -957,7 +957,7 @@ export const cards = [
         price_xl: '1 127,5',
     },
     {
-        image: '../images/image90.png',
+        image: 'images/image90.png',
         name: 'Новогодний подарок "Шерхан"',
         pack: 'мягкая игрушка',
         weight: '700',
@@ -968,7 +968,7 @@ export const cards = [
         price_xl: '1 301,5',
     },
     {
-        image: '../images/image91.png',
+        image: 'images/image91.png',
         name: 'Новогодний подарок "Флин"',
         pack: 'мягкая игрушка',
         weight: '700',
@@ -979,7 +979,7 @@ export const cards = [
         price_xl: '1 151,5',
     },
     {
-        image: '../images/image92.png',
+        image: 'images/image92.png',
         name: 'Новогодний подарок "Дикси"',
         pack: 'мягкая игрушка',
         weight: '700',
@@ -990,7 +990,7 @@ export const cards = [
         price_xl: '1 161,5',
     },
     {
-        image: '../images/image93.png',
+        image: 'images/image93.png',
         name: 'Новогодний подарок "Пикси"',
         pack: 'мягкая игрушка',
         weight: '700',
@@ -1001,7 +1001,7 @@ export const cards = [
         price_xl: '1 161,5',
     },
     {
-        image: '../images/image94.png',
+        image: 'images/image94.png',
         name: 'Новогодний подарок "Тигра"',
         pack: 'мягкая игрушка',
         weight: '800',
@@ -1012,7 +1012,7 @@ export const cards = [
         price_xl: '1 197,8',
     },
     {
-        image: '../images/image95.png',
+        image: 'images/image95.png',
         name: 'Новогодний подарок "Фрида"',
         pack: 'мягкая игрушка',
         weight: '800',
@@ -1023,7 +1023,7 @@ export const cards = [
         price_xl: '1 253,8',
     },
     {
-        image: '../images/image96.png',
+        image: 'images/image96.png',
         name: 'Новогодний подарок "Шерхан"',
         pack: 'мягкая игрушка',
         weight: '800',
@@ -1034,7 +1034,7 @@ export const cards = [
         price_xl: '1 371,8',
     },
     {
-        image: '../images/image97.png',
+        image: 'images/image97.png',
         name: 'Новогодний подарок Рюкзак "Алекс"',
         pack: 'мягкая игрушка',
         weight: '800',
@@ -1045,7 +1045,7 @@ export const cards = [
         price_xl: '1 276,8',
     },
     {
-        image: '../images/image98.png',
+        image: 'images/image98.png',
         name: 'Новогодний подарок "Тигра',
         pack: 'мягкая игрушка',
         weight: '900',
@@ -1056,7 +1056,7 @@ export const cards = [
         price_xl: '1 296,5',
     },
     {
-        image: '../images/image99.png',
+        image: 'images/image99.png',
         name: 'Новогодний подарок "Алекс"',
         pack: 'мягкая игрушка',
         weight: '900',
@@ -1067,7 +1067,7 @@ export const cards = [
         price_xl: '1 375,5',
     },
     {
-        image: '../images/image100.png',
+        image: 'images/image100.png',
         name: 'Новогодний подарок "Спайк"',
         pack: 'мягкая игрушка',
         weight: '1000',
@@ -1078,7 +1078,7 @@ export const cards = [
         price_xl: '1 551,0',
     },
     {
-        image: '../images/image101.png',
+        image: 'images/image101.png',
         name: 'Новогодний подарок Рюкзак "Обнимашкин"',
         pack: 'мягкая игрушка',
         weight: '1000',
@@ -1089,7 +1089,7 @@ export const cards = [
         price_xl: '1 159,0',
     },
     {
-        image: '../images/image102.png',
+        image: 'images/image102.png',
         name: 'Новогодний подарок "Алекс"',
         pack: 'мягкая игрушка',
         weight: '1000',
