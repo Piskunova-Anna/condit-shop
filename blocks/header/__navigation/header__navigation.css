@@ -13,3 +13,7 @@
         margin: auto;
     }
 }
+
+.header__navigation.active{
+    text-decoration: underline #fefccf;
+}
