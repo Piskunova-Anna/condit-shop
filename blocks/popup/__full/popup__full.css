@@ -1,0 +1,8 @@
+.popup__full{
+    max-height: 75vh;
+    max-width: 75vw;
+    z-index: 20;
+    object-fit: contain;
+    color: #fefccf;
+    border-radius: 10px;
+}

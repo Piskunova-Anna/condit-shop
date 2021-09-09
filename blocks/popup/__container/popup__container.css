@@ -1,0 +1,8 @@
+.popup__container{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    z-index: 5;
+    background-color: #fff;
+    border-radius: 10px;
+}

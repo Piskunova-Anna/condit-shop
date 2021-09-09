@@ -16,6 +16,7 @@
     border-radius: 2px;
     border-width: 0;
     justify-content: center;
+    transition: opacity .5s linear 0s;
 }
 
 @media screen and (max-width: 900px){
@@ -31,4 +32,8 @@
         width: 250px;
         margin-top: 0;
     }
+}
+
+.grid__composition:hover{
+    opacity: .7;
 }

@@ -6,6 +6,8 @@
     object-fit: cover;
     display: flex;
     align-self: center;
+    cursor: pointer;
+    transition: opacity .5s linear 0s;
 }
 
 @media screen and (max-width: 900px){
@@ -21,4 +23,8 @@
         max-height: 350px;
         max-width: 250px;
     }
+}
+
+.grid__image:hover{
+    opacity: .7;
 }

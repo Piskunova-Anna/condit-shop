@@ -1,5 +1,5 @@
 export class Card {
-    constructor(data, cardSelector){
+    constructor(handleCardClick, handleCompClick, data, cardSelector){
         this._name = data.name;
         this._pack = data.pack;
         this._weight = data.weight;
@@ -8,9 +8,12 @@ export class Card {
         this._price_m = data.price_m;
         this._price_l = data.price_l;
         this._price_xl = data.price_xl;
+        this._description = data.description;
         this._cardSelector = cardSelector;
         this._image = data.image;
         this._alt = data.name;
+        this._handleCardClick = handleCardClick;
+        this._compositionClick = handleCompClick;
     }
 
     _getTemplate() {
@@ -43,10 +46,10 @@ export class Card {
 
     _setEventListeners() {
         this._element.querySelector('.grid__image').addEventListener('click', () => {
-
+            this._handleCardClick.open({name: this._name, image: this._image});
         })
         this._element.querySelector('.grid__composition').addEventListener('click', () => {
-
+            this._compositionClick.open({text: this._description});
         })
     }
 }
