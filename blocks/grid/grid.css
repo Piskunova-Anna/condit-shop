@@ -4,3 +4,9 @@
     margin: 0 auto 50px;
     row-gap: 30px;
 }
+
+@media screen and (max-width: 750px){
+    .grid{
+        max-width: 320px;
+    }
+}
