@@ -4,7 +4,7 @@
     margin: 20px;
 }
 
-@media screen and (max-width: 670px){
+@media screen and (max-width: 800px){
     .popup__text{
         max-width: 280px;
         overflow-x: hidden;
