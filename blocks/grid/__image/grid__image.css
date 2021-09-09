@@ -18,7 +18,7 @@
     }
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 750px){
     .grid__image{
         max-height: 350px;
         max-width: 250px;

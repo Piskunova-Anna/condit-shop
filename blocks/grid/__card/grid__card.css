@@ -9,7 +9,7 @@
     margin: auto;
 }
 
-@media screen and (max-width: 670px){
+@media screen and (max-width: 750px){
     .grid__card{
         max-width: 300px;
         display: flex;
