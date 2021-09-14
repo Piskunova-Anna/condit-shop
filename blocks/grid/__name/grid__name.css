@@ -1,4 +1,4 @@
-.grid__name{
+.grid__name {
     grid-area: 1 / 1 / 2 / 3;
     display: flex;
     font-size: 25px;
@@ -11,15 +11,15 @@
     color: #7F525D;
 }
 
-@media screen and (max-width: 900px){
-    .grid__name{
+@media screen and (max-width: 900px) {
+    .grid__name {
         font-size: 22px;
         line-height: 26px;
     }
 }
 
-@media screen and (max-width: 670px){
-    .grid__name{
+@media screen and (max-width: 670px) {
+    .grid__name {
         max-width: 250px;
         margin: auto;
     }

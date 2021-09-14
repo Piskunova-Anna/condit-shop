@@ -1,5 +1,5 @@
 export class Card {
-    constructor(handleCardClick, handleCompClick, data, cardSelector){
+    constructor(handleCardClick, handleCompClick, data, cardSelector) {
         this._name = data.name;
         this._pack = data.pack;
         this._weight = data.weight;
@@ -46,10 +46,10 @@ export class Card {
 
     _setEventListeners() {
         this._element.querySelector('.grid__image').addEventListener('click', () => {
-            this._handleCardClick.open({name: this._name, image: this._image});
+            this._handleCardClick.open({ name: this._name, image: this._image });
         })
         this._element.querySelector('.grid__composition').addEventListener('click', () => {
-            this._compositionClick.open({text: this._description});
+            this._compositionClick.open({ text: this._description });
         })
     }
 }

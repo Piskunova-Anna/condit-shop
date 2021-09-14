@@ -1,9 +1,9 @@
-.header__navigation_link{
+.header__navigation_link {
     text-decoration: none;
     color: #FEFCFF;
     transition: opacity .5s linear 0s;
 }
 
-.header__navigation_link:hover{
+.header__navigation_link:hover {
     opacity: .5;
 }

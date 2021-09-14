@@ -3,16 +3,17 @@
     flex-direction: column;
     width: 75vw;
     margin: 0 auto 50px;
+    background: #ffc;
 }
 
-@media screen and (max-width: 950px){
-    .presents{
+@media screen and (max-width: 950px) {
+    .presents {
         max-width: 600px;
     }
 }
 
-@media screen and (max-width: 650px){
-    .presents{
+@media screen and (max-width: 650px) {
+    .presents {
         max-width: 280px;
         align-content: center;
         justify-content: center;

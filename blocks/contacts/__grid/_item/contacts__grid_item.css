@@ -1,4 +1,4 @@
-.contacts__grid_item{
+.contacts__grid_item {
     display: flex;
     margin-block-start: 0;
     margin-block-end: 0;
@@ -10,9 +10,8 @@
     padding-left: 10px;
 }
 
-@media screen and (max-width: 650px){
-    .contacts__grid_item{
-        /*background-color: transparent;*/
+@media screen and (max-width: 650px) {
+    .contacts__grid_item {
         min-height: 35px;
     }
 }

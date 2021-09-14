@@ -1,4 +1,4 @@
-.presents-heading{
+.presents-heading {
     display: flex;
     font-size: 35px;
     margin-block-start: 0;
@@ -9,8 +9,8 @@
     font-style: italic;
 }
 
-@media screen and (max-width: 650px){
-    .presents-heading{
+@media screen and (max-width: 650px) {
+    .presents-heading {
         margin: auto;
         margin-bottom: 25px;
         font-size: 20px;

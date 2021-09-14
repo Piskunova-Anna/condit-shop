@@ -1,12 +1,12 @@
-.grid{
+.grid {
     display: grid;
     grid-template-rows: max-content;
     margin: 0 auto 50px;
     row-gap: 30px;
 }
 
-@media screen and (max-width: 750px){
-    .grid{
+@media screen and (max-width: 750px) {
+    .grid {
         max-width: 320px;
     }
 }

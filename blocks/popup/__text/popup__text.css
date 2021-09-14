@@ -1,11 +1,11 @@
-.popup__text{
+.popup__text {
     color: #000;
     max-width: 500px;
     margin: 20px;
 }
 
-@media screen and (max-width: 800px){
-    .popup__text{
+@media screen and (max-width: 800px) {
+    .popup__text {
         max-width: 280px;
         overflow-x: hidden;
         overflow-y: scroll;

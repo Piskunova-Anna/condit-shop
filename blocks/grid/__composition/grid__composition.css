@@ -1,4 +1,4 @@
-.grid__composition{
+.grid__composition {
     display: flex;
     grid-area: 9 / 1 / 10 / 2;
     cursor: pointer;
@@ -19,21 +19,21 @@
     transition: opacity .5s linear 0s;
 }
 
-@media screen and (max-width: 900px){
-    .grid__composition{
+@media screen and (max-width: 900px) {
+    .grid__composition {
         grid-area: 8 / 1 / 10 / 2;
         width: 150px;
         margin-top: 0;
     }
 }
 
-@media screen and (max-width: 750px){
-    .grid__composition{
+@media screen and (max-width: 750px) {
+    .grid__composition {
         width: 250px;
         margin-top: 0;
     }
 }
 
-.grid__composition:hover{
+.grid__composition:hover {
     opacity: .7;
 }

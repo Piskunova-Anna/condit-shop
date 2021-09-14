@@ -1,4 +1,4 @@
-.footer{
+.footer {
     background-color: #8C001A;
     color: #fefcff;
     display: flex;
@@ -8,8 +8,8 @@
     flex-shrink: 0;
 }
 
-@media screen and (max-width: 650px){
-    .footer{
+@media screen and (max-width: 650px) {
+    .footer {
         flex-direction: column;
         text-align: center;
     }

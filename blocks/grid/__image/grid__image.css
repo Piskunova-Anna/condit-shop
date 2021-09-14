@@ -1,4 +1,4 @@
-.grid__image{
+.grid__image {
     grid-area: 2 / 1 / 9 / 2;
     margin: 0 auto;
     max-height: 300px;
@@ -10,21 +10,21 @@
     transition: opacity .5s linear 0s;
 }
 
-@media screen and (max-width: 900px){
-    .grid__image{
+@media screen and (max-width: 900px) {
+    .grid__image {
         grid-area: 2 / 1 / 8 / 2;
         max-height: 200px;
         max-width: 150px;
     }
 }
 
-@media screen and (max-width: 750px){
-    .grid__image{
+@media screen and (max-width: 750px) {
+    .grid__image {
         max-height: 350px;
         max-width: 250px;
     }
 }
 
-.grid__image:hover{
+.grid__image:hover {
     opacity: .7;
 }

@@ -7,14 +7,14 @@
     width: 100%;
 }
 
-@media screen and (max-width: 950px){
-    .logo{
+@media screen and (max-width: 950px) {
+    .logo {
         max-width: 600px;
     }
 }
 
-@media screen and (max-width: 650px){
-    .logo{
+@media screen and (max-width: 650px) {
+    .logo {
         flex-direction: column;
         max-width: 280px;
         align-items: center;

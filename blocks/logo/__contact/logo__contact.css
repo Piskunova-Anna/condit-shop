@@ -1,4 +1,4 @@
-.logo__contact{
+.logo__contact {
     display: flex;
     color: #800517;
     font-size: 20px;
@@ -8,8 +8,8 @@
     align-self: flex-end;
 }
 
-@media screen and (max-width: 650px){
-    .logo__contact{
+@media screen and (max-width: 650px) {
+    .logo__contact {
         align-self: center;
     }
 }

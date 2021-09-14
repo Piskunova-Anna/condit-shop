@@ -1,12 +1,12 @@
 import { Popup } from './Popup.js';
 
 export class PopupWithText extends Popup {
-    constructor(popup, description){
+    constructor(popup, description) {
         super(popup);
         this._description = description;
     }
 
-    open({text}){
+    open({ text }) {
         this._description.textContent = text;
         super.open();
     }

@@ -1,17 +1,17 @@
-.grid__header{
+.grid__header {
     display: flex;
     flex-direction: row;
 }
 
-@media screen and (max-width: 900px){
-    .grid__header{
+@media screen and (max-width: 900px) {
+    .grid__header {
         line-height: 14px;
         font-size: 12px;
     }
 }
 
-@media screen and (max-width: 670px){
-    .grid__header{
+@media screen and (max-width: 670px) {
+    .grid__header {
         width: 250px;
         text-align: start;
         justify-content: start;

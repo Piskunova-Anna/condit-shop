@@ -1,5 +1,6 @@
-.content{
+.content {
     display: flex;
     flex-direction: column;
     flex: 1;
+    background: radial-gradient(circle, gray 4px, transparent 5px) 50px 50px / 60px 60px, radial-gradient(circle at center, red 4px, transparent 5px) 20px 20px / 60px 60px;
 }

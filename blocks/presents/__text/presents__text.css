@@ -7,8 +7,8 @@
     margin: 0 0 5px 20px;
 }
 
-@media screen and (max-width: 650px){
-    .presents__text{
+@media screen and (max-width: 650px) {
+    .presents__text {
         font-size: 16px;
     }
 }

@@ -24,8 +24,7 @@ export class Popup {
     setEventListeners() {
         this._popup.addEventListener('click', (evt) => {
             if ((evt.target.classList.contains('popup')) ||
-            (evt.target.classList.contains('popup__close-icon')))
-            {
+                (evt.target.classList.contains('popup__close-icon'))) {
                 this.close();
             }
         });
