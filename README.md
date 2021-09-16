@@ -22,3 +22,7 @@
 **Ссылка на проект**
 
 https://piskunova-anna.github.io/condit-shop/
+
+**Ссылка на сайт**
+
+https://magazini-krupskoy.ru/
