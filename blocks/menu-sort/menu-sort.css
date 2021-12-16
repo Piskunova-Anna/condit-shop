@@ -1,0 +1,19 @@
+.menu-sort {
+  display: flex;
+  flex-direction: row;
+  width: 75vw;
+  margin: 0 auto 50px;
+}
+
+@media screen and (max-width: 950px) {
+  .menu-sort {
+      max-width: 600px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .menu-sort {
+      max-width: 280px;
+      flex-direction: column;
+  }
+}

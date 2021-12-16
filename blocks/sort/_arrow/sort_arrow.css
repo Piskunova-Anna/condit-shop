@@ -1,0 +1,14 @@
+.sort_arrow {
+  display: flex;
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  border-bottom: 2px solid #9d9d9d;
+  border-left: 2px solid #9d9d9d;
+  top: 10px;
+  right: 10px;
+  transform: rotate(-45deg);
+  transition: transform .3s linear;
+  z-index: 2;
+  cursor: pointer;
+}

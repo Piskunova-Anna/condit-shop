@@ -1304,3 +1304,12 @@ export const popupfullPic = document.querySelector('.popup__full-picture');
 export const popupPicName = document.querySelector('.popup__image-name');
 export const popupButton = document.querySelector('.popup__composition');
 export const popupText = document.querySelector('.popup__text');
+
+export const sortPack = document.querySelector('.sort_pack');
+export const sortArrowPack = document.querySelector('.sort_arrow-pack');
+export const sortBlockPack = Array.from(sortPack.querySelectorAll('.sort_block'));
+export const sortHek = document.querySelector('.sort_hek');
+export const sortTin = document.querySelector('.sort_tin');
+export const sortBoard = document.querySelector('.sort_board');
+export const sortToy = document.querySelector('.sort_toy');
+export const sortAll = document.querySelector('.sort_all');

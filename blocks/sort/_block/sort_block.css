@@ -1,0 +1,8 @@
+.sort_block {
+  display: none;
+}
+
+.sort_block:hover {
+  background-color: darkgray;
+  cursor: pointer;
+}
